@@ -10,7 +10,7 @@ public class BaekJoon_1436 {
             int num = 666;
             int count = 1;
 
-            while(count != n){
+            while (count != n){
                 num++;
                 if(String.valueOf(num).contains("666")){
                     count++;

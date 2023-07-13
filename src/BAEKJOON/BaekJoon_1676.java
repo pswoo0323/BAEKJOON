@@ -1,7 +1,3 @@
-package BAEKJOON;
-
-import java.util.Scanner;
-
 /* factorial 팩토리얼이란 ‘수를 단계적으로 곱한다.’는 뜻으로 숫자 옆에 !표를 붙어서 표현한다.
 팩토리얼을 구하는 것은 아래와 같이 표현할 수 있다.
 3!= 3*2*1 = 6
@@ -22,7 +18,10 @@ ex) 30 = 2*3*5
 한마디로 단순히 5로 나눌 것이 아니라 반복문을 통해 5로 나누면서 누적합을 해주어야 한다.
 
 */
-public class BaeJoon_1676 {
+package BAEKJOON;
+import java.util.Scanner;
+
+public class BaekJoon_1676 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
