@@ -33,7 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2RvAjDU4pvRoUP3l63h6MFrXjkb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,8 +58,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="BaekJoon_1181" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEKJOON.BaekJoon_1181" />
+    <configuration name="Baekjoon_1181" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEKJOON.Baekjoon_1181" />
       <module name="BAEKJOON" />
       <extension name="coverage">
         <pattern>
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689220788890</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="백준 알고리즘 문제풀이">
+      <created>1689387303813</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689387303813</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

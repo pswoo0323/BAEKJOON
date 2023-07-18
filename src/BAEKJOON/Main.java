@@ -1,23 +1,12 @@
 package BAEKJOON;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.io.IOException;
-
 public class Main {
-    public static void main(String[] args) throws IOException{
-        boolean[] arr = new boolean[42];
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        for(int i=0; i<10; i++){
-            arr[Integer.parseInt(br.readLine())%42] = true;
-        }
-        int count = 0;
-        for(boolean value : arr){
-            if(value){
-                count++;
+    public static void main(String[] args) {
+        for (int i = 1; i <=5 ; i++) {
+            for (int j = 1; j <=i ; j++) {
+                System.out.print("*");
             }
+            System.out.println();
         }
-        System.out.println(count);
     }
 }

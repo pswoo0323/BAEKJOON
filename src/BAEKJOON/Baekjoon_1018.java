@@ -1,6 +1,6 @@
 package BAEKJOON;
 import java.util.Scanner;
-public class BaekJoon_1018 {
+public class Baekjoon_1018 {
     public static boolean[][] arr;
     public static int min = 64;
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;//compare 메소드는 양의정수,0,음의정수 총 3가지 리턴 값이 있다.
 import java.util.Scanner;
 //정렬문제
-public class BaekJoon_1181 {
+public class Baekjoon_1181 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
