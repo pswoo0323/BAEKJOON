@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 //수학 연산자 사용
-public class BaekJoon_2908 {
+public class Baekjoon_2908 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int input = sc.nextInt();

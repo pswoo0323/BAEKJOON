@@ -1,6 +1,6 @@
 package BAEKJOON;
 import java.util.Scanner;
-public class BaekJoon_10810 {
+public class Baekjoon_10810 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();//N번 까지의 공의 번호

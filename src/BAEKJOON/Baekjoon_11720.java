@@ -1,6 +1,6 @@
 package BAEKJOON;
 import java.util.Scanner;
-public class BaekJoon_11720 {
+public class Baekjoon_11720 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

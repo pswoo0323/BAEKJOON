@@ -3,7 +3,7 @@ package BAEKJOON;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class BaekJoon_10811_2 {
+public class Baekjoon_10811_2 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
 

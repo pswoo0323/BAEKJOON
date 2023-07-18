@@ -1,6 +1,6 @@
 package BAEKJOON;
 import java.util.Scanner;
-public class BaekJoon_9086 {
+public class Baekjoon_9086 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();//테스트케이스 개수 선언

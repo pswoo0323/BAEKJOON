@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-public class BaekJoon_3052_1 {
+public class Baekjoon_3052_1 {
     public static void main(String[] args) throws IOException{
         boolean[] arr = new boolean[42];
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

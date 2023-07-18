@@ -1,6 +1,6 @@
 package BAEKJOON;
 
-public class BaekJoon_11654_2 {
+public class Baekjoon_11654_2 {
     public static void main(String[] args) throws Exception{
         int N = System.in.read();
         System.out.println(N);

@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 //나이순 정렬
 //정렬 알고리즘
-public class BaekJoon_10814 {
+public class Baekjoon_10814 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int Number = Integer.parseInt(br.readLine());//문자열을 기본형 정수로 리턴한다.

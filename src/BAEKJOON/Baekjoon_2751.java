@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class BaekJoon_2751 {
+public class Baekjoon_2751 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         /*

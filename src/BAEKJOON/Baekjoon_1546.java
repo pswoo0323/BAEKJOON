@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class BaekJoon_1546 {
+public class Baekjoon_1546 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();//변수 N에 과목수 입력받기

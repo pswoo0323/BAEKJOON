@@ -1,7 +1,7 @@
 package BAEKJOON;
 import java.util.Scanner;
 //블루트포스(완전탐색 문제)
-public class BaekJoon_7568 {
+public class Baekjoon_7568 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

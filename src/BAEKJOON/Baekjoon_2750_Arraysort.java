@@ -2,7 +2,7 @@
 package BAEKJOON;
 import java.util.Scanner;
 import java.util.Arrays;
-public class BaekJoon_2750_Arraysort {
+public class Baekjoon_2750_Arraysort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

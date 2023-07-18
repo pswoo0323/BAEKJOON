@@ -2,7 +2,7 @@ package BAEKJOON;
 
 import java.util.Scanner;
 //선택정렬(selection sort)
-public class BaekJoon_2750_selectionsort {
+public class Baekjoon_2750_selectionsort {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
