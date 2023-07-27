@@ -5,12 +5,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class practice {
+public class Baekjoon_1000 {
     public static void main(String[] args)throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();//readLine(행)
-        StringTokenizer st = new StringTokenizer(str,"+");
+        StringTokenizer st = new StringTokenizer(str," ");
         //StringTokenizer ("문자열",구분자)
         int a = Integer.parseInt(st.nextToken());//구분된 변수를 꺼낼 때는 차례대로 nextToken();을 해주면 문자열을 반환해줌.
         int b = Integer.parseInt(st.nextToken());//문자열을 반환했으니 int형으로 변환
