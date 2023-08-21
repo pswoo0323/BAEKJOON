@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b48a4c-9c9a-4624-95fa-41b00b76b6fe" name="Changes" comment="" />
+    <list default="true" id="07b48a4c-9c9a-4624-95fa-41b00b76b6fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_10809_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_10809_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_1152_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_1152_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_11654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_11718_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_11720_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_11720_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_1546_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2675_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2675_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_27866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2903_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2908_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2908_S.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_5622_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_9086_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAEKJOON/Baekjoon_2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BAEKJOON/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BAEKJOON/practice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
