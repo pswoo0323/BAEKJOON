@@ -5,107 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="125282e2-31e2-4a2c-8111-ac9c2b9229ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../BAEKJOON.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_1000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10807.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10809.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10809_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10809_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10809_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10810.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10811.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10811_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10811_3R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10811_4R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10814.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10818.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10871.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10926.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10950.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10951.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10952.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10988.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10988_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_10998.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_11382.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_11718.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_11718_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_11720.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_11720_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_11720_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_1330.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_15552.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_18108.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2480.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_25304.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_25314.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2562.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2566.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2566_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2675.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2675_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2675_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2720_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_27323_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2738.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2739.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2743.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2750_Arraysort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2750_selectionsort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2751.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2753.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_27866.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2869_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2884.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2884_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2903_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2908.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2908_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2908_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_2908_S.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_3003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_3003_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_3052.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_3052_1R.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_5086_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_5597.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_5597_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_5622.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_5622_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_7568.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_8393.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_9086.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon_9086_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTBaekjoon_10798.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTBaekjoon_11650.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTBaekjoon_11654.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTBaekjoon_11654_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTBaekjoon_2563.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prc_tmp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1018.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1152_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1152_S.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1157_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1181.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1330.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1436.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1546.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1546_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1676.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_1676_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_2292_B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_2444.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_2480.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Baekjoon_2562.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Merging master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -170,6 +72,8 @@
       <workItem from="1691847748671" duration="416000" />
       <workItem from="1692620160944" duration="109000" />
       <workItem from="1692620280038" duration="142000" />
+      <workItem from="1692623727265" duration="10000" />
+      <workItem from="1693312271080" duration="13000" />
     </task>
     <servers />
   </component>
