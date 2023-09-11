@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07b48a4c-9c9a-4624-95fa-41b00b76b6fe" name="Changes" comment="" />
+    <list default="true" id="07b48a4c-9c9a-4624-95fa-41b00b76b6fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BAEKJOON/src/BAEKJOON/Baekjoon_11005_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/src/BAEKJOON/Baekjoon_2745_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/src/BAEKJOON/Baekjoon_2745_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON/src/BAEKJOON/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON/src/BAEKJOON/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
